@@ -18,15 +18,18 @@
 
    - 작동방식
 
-  <br>  
-- 1단계: HEAD 이동
+  <br> 
+- 작동 전 모습
 <img src="https://user-images.githubusercontent.com/89792058/141664788-547c4f05-5542-46c8-9fea-fb95b15096da.png" width="500" height="350"/>
-checkout 명령처럼 HEAD가 가리키는 브랜치를 바꾸는 것은 아님.
-HEAD는 현재 브랜치를 계속 가리키고, 현재 브랜치가 가리키는 커밋을 바꿈.
-- HEAD 이동
+<img src="https://user-images.githubusercontent.com/89792058/141665190-529d16c8-0e50-49e7-86fb-4dd16751fb30.png" width="500" height="250"/>
+- 1단계: HEAD 이동
 <img src="https://user-images.githubusercontent.com/89792058/141664811-7732cc2c-4a31-497a-aefa-c139354cafb2.png" width="500" height="350"/>
-- HEAD 이동
-<img src="https://user-images.githubusercontent.com/89792058/141664824-f6bca6ba-7bf2-4b5e-becc-049c5f107f7f.png" width="500" height="350"/>
+checkout 명령처럼 HEAD가 가리키는 브랜치를 바꾸는 것은 아님.
+HEAD는 작업하던 현재 브랜치 내의 커밋을 바꿈. <br>
+- 2단계: 종료
+<img src="https://user-images.githubusercontent.com/89792058/141664824-f6bca6ba-7bf2-4b5e-becc-049c5f107f7f.png" width="500" height="250"/>
+
+> Index나 워킹 디렉토리는 그대로 놔두고 브랜치가 가리키는 커밋만 이전으로 되돌린다.
 
 <br>
 
@@ -36,11 +39,16 @@ HEAD는 현재 브랜치를 계속 가리키고, 현재 브랜치가 가리키�
    - 되돌린 커밋버전 이후의 변경사항은 스테이지 위에 존재
 
    - 작동방식
-  
-      - 작동방식
+
+  <br> 
+- 작동 전 모습
 <img src="https://user-images.githubusercontent.com/89792058/141664788-547c4f05-5542-46c8-9fea-fb95b15096da.png" width="500" height="350"/>
+- 1단계: HEAD 이동
 <img src="https://user-images.githubusercontent.com/89792058/141664830-9d5869ff-fe95-40c9-aaf4-26f69b759ca1.png" width="500" height="350"/>
-<img src="https://user-images.githubusercontent.com/89792058/141664836-82247fe0-ea0f-4a0a-a77e-fdd79c086314.png" width="500" height="350"/>
+- 2단계: 종료
+<img src="https://user-images.githubusercontent.com/89792058/141664836-82247fe0-ea0f-4a0a-a77e-fdd79c086314.png" width="500" height="250"/>
+
+> Index 업데이트. Staging Area 를 비움.
 
 <br>
 
@@ -50,10 +58,16 @@ HEAD는 현재 브랜치를 계속 가리키고, 현재 브랜치가 가리키�
    - 커밋하지 않은 변경사항 모두 삭제
 
    - 작동방식
-   
+
+  <br> 
+- 작동 전 모습  
 <img src="https://user-images.githubusercontent.com/89792058/141664788-547c4f05-5542-46c8-9fea-fb95b15096da.png" width="500" height="350"/>
+- 1단계: HEAD 이동
 <img src="https://user-images.githubusercontent.com/89792058/141664841-38380745-b06c-434e-9e72-588a6394cba5.png" width="500" height="350"/>
-<img src="https://user-images.githubusercontent.com/89792058/141664844-f8309e91-7e48-4cf2-a493-4031ef4161ba.png" width="500" height="350"/>
+- 2단계: 종료
+<img src="https://user-images.githubusercontent.com/89792058/141664844-f8309e91-7e48-4cf2-a493-4031ef4161ba.png" width="500" height="250"/>
+
+> Index와 워킹 디렉토리 업데이트. 워킹 디렉토리의 파일까지 강제로 덮어씀.
 
 <br>
 
