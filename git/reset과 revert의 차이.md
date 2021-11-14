@@ -15,13 +15,32 @@
   
    - 
 
+<img src="https://user-images.githubusercontent.com/89792058/141664788-547c4f05-5542-46c8-9fea-fb95b15096da.png" width="500" height="350"/>
+<img src="https://user-images.githubusercontent.com/89792058/141664811-7732cc2c-4a31-497a-aefa-c139354cafb2.png" width="500" height="350"/>
+<img src="https://user-images.githubusercontent.com/89792058/141664824-f6bca6ba-7bf2-4b5e-becc-049c5f107f7f.png" width="500" height="350"/>
+
+<br>
 
 ## 2. Mixed
   
    - d
 
+<img src="https://user-images.githubusercontent.com/89792058/141664788-547c4f05-5542-46c8-9fea-fb95b15096da.png" width="500" height="350"/>
+<img src="https://user-images.githubusercontent.com/89792058/141664830-9d5869ff-fe95-40c9-aaf4-26f69b759ca1.png" width="500" height="350"/>
+<img src="https://user-images.githubusercontent.com/89792058/141664836-82247fe0-ea0f-4a0a-a77e-fdd79c086314.png" width="500" height="350"/>
+
+<br>
 
 ## 3. Hard
+
+<img src="https://user-images.githubusercontent.com/89792058/141664788-547c4f05-5542-46c8-9fea-fb95b15096da.png" width="500" height="350"/>
+<img src="https://user-images.githubusercontent.com/89792058/141664841-38380745-b06c-434e-9e72-588a6394cba5.png" width="500" height="350"/>
+<img src="https://user-images.githubusercontent.com/89792058/141664844-f8309e91-7e48-4cf2-a493-4031ef4161ba.png" width="500" height="350"/>
+
+
+
+
+
 
 
 
