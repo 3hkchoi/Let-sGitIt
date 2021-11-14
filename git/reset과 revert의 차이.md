@@ -89,6 +89,8 @@ HEAD는 작업하던 현재 브랜치 내의 커밋을 바꿈. <br>
 - cherry-pick 명령의 반대
 - 해당 커밋을 되돌리는 커밋을 새로 생성하는 것.
 
+<img src="https://user-images.githubusercontent.com/89792058/141665700-02a71968-a478-4ee7-8ac0-3a1b997b2db8.png"/>
+
 <br>
 
 # Git으로 관리하는 파일의 상태
